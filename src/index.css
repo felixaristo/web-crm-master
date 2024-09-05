@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.btn-remove-capital{
+  text-transform: none!important;
+  font-weight: bold!important;
+}
+.btn-rounded{
+  border-radius: 20px!important;
+}
+.remove-boxshadow{
+  font-weight: 600!important;
+  box-shadow: 0 3px 6px 0 rgba(119, 119, 119, 0.35)!important;
+  /* box-shadow: 0 3px 6px 0 rgba(119, 119, 119, 0.35)!important; */
+
+}
+.btn-flat-height{
+  height: 25px!important;
+  padding-bottom:0px!important;
+  padding-top:0px!important;
+}
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}

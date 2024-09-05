@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+    <g id="prefix__Equal" transform="translate(-1763 -585)">
+        <path id="prefix__Rectangle_219" fill="none" d="M0 0H64V64H0z" data-name="Rectangle 219" transform="translate(1763 585)"/>
+        <g id="prefix__Equal-2" data-name="Equal" transform="translate(1763 484)">
+            <path id="prefix__Path_456" fill="#ffe2b3" d="M64 308.571v4.571a4.571 4.571 0 0 1-4.571 4.571H4.571A4.571 4.571 0 0 1 0 313.143v-4.571A4.571 4.571 0 0 1 4.571 304h54.858A4.571 4.571 0 0 1 64 308.571z" data-name="Path 456" transform="translate(0 -164.571)"/>
+            <path id="prefix__Path_457" fill="#ffc466" d="M64 116.571v4.571a4.571 4.571 0 0 1-4.571 4.571H4.571A4.571 4.571 0 0 1 0 121.143v-4.571A4.571 4.571 0 0 1 4.571 112h54.858A4.571 4.571 0 0 1 64 116.571z" data-name="Path 457"/>
+        </g>
+    </g>
+</svg>

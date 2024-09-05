@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+    <g id="prefix__Chevron_left-Line_enable" data-name="Chevron left-Line enable" transform="rotate(180 62 258)">
+        <path id="prefix__Rectangle_177" d="M0 0H64V64H0z" data-name="Rectangle 177" transform="translate(60 452)" style="fill:none"/>
+        <path id="prefix__chevron_right_line" d="M4.763 35.094L1.9 37.955a1.734 1.734 0 000 2.453l26.117 26.178L1.9 92.764a1.734 1.734 0 000 2.453l2.861 2.861a1.734 1.734 0 002.453 0l30.267-30.266a1.734 1.734 0 000-2.453L7.216 35.094a1.734 1.734 0 00-2.453 0z" data-name="chevron right line" transform="translate(72.606 417.414)"/>
+    </g>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="14" viewBox="0 0 30 14">
+    <defs>
+        <style>
+            .cls-1{fill:#3b99eb}
+        </style>
+    </defs>
+    <g id="Icon_Filter" transform="translate(-24 -10)">
+        <path id="Rectangle_69" d="M0 0H30V4H0z" class="cls-1" transform="translate(24 10)"/>
+        <path id="Rectangle_70" d="M0 0H20V4H0z" class="cls-1" transform="translate(29 15)"/>
+        <path id="Rectangle_71" d="M0 0H10V4H0z" class="cls-1" transform="translate(34 20)"/>
+    </g>
+</svg>

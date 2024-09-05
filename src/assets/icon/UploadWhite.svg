@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+    <defs>
+        <style>
+            .prefix__cls-2{fill:#fff}
+        </style>
+    </defs>
+    <g id="prefix__Upload" transform="translate(-481 -605) translate(481 605)">
+        <path id="prefix__Rectangle_211" fill="none" d="M0 0H20V20H0z" data-name="Rectangle 211"/>
+        <g id="prefix__Upload-2" data-name="Upload">
+            <path id="prefix__Path_446" d="M19.062 351.92H13.75v.313a2.187 2.187 0 0 1-2.187 2.188H8.437a2.187 2.187 0 0 1-2.187-2.187v-.312H.937a.935.935 0 0 0-.937.937v4.375a.935.935 0 0 0 .937.938h18.125a.935.935 0 0 0 .938-.937v-4.375a.935.935 0 0 0-.937-.937zm-4.688 5.156a.781.781 0 1 1 .781-.781.781.781 0 0 1-.78.781zm2.5 0a.781.781 0 1 1 .781-.781.781.781 0 0 1-.78.781z" class="prefix__cls-2" data-name="Path 446" transform="translate(0 -338.173)"/>
+            <path id="prefix__Path_447" d="M88.5 14.053V7.491h-3.423a.78.78 0 0 1-.551-1.332L90.467.213a.757.757 0 0 1 1.066 0l5.945 5.945a.78.78 0 0 1-.551 1.332H93.5v6.562a.935.935 0 0 1-.937.938H89.44a.935.935 0 0 1-.937-.937z" class="prefix__cls-2" data-name="Path 447" transform="translate(-81.002 .007)"/>
+        </g>
+    </g>
+</svg>

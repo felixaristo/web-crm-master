@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="prefix__View" width="20" height="20" viewBox="0 0 20 20">
+    <defs>
+        <style>
+            .prefix__cls-2{fill:#fff}
+        </style>
+    </defs>
+    <path id="prefix__Rectangle_175" fill="none" d="M0 0H20V20H0z" data-name="Rectangle 175"/>
+    <g id="prefix__Eyeopen" transform="translate(0 3.307)">
+        <path id="prefix__Path_72" d="M19.723 70.111A11.049 11.049 0 0 0 9.922 64a11.051 11.051 0 0 0-9.8 6.112 1.114 1.114 0 0 0 0 1.006 11.049 11.049 0 0 0 9.8 6.111 11.051 11.051 0 0 0 9.8-6.112 1.114 1.114 0 0 0 0-1.006zm-9.8 5.464a4.958 4.958 0 1 1 4.961-4.959 4.958 4.958 0 0 1-4.961 4.959z" class="prefix__cls-2" data-name="Path 72" transform="translate(-.001 -64)"/>
+        <path id="prefix__Path_73" d="M201.067 165.673a4.4 4.4 0 1 1-8.491-2.3 2.2 2.2 0 0 0 3.073-3.073 4.377 4.377 0 0 1 5.42 5.378z" class="prefix__cls-2" data-name="Path 73" transform="translate(-186.895 -157.913)"/>
+    </g>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+    <g id="prefix__Probability" transform="translate(-1006 -721)">
+        <path id="prefix__Path_445" d="M0 0h24v24H0z" data-name="Path 445" transform="translate(1006 721)" style="fill:none"/>
+        <g id="prefix__Probability-2" data-name="Probability" transform="translate(1006 723.25)">
+            <path id="prefix__Path_443" d="M112.8 17.4v1.2a.6.6 0 0 1-.6.6H96.6a.6.6 0 0 1-.6-.6v-1.2a.6.6 0 0 1 .6-.6h6.6V5.746a3 3 0 0 1-1.74-2.146H96.6A.6.6 0 0 1 96 3V1.8a.6.6 0 0 1 .6-.6h5.413a2.973 2.973 0 0 1 4.773 0h5.414a.6.6 0 0 1 .6.6V3a.6.6 0 0 1-.6.6h-4.86a3 3 0 0 1-1.74 2.147V16.8h6.6a.6.6 0 0 1 .6.6z" data-name="Path 443" transform="translate(-92.4 .001)" style="fill:#adbff7"/>
+            <path id="prefix__Path_444" d="M9.6 135.8c0-.607.05-.327-3.187-6.807a1.8 1.8 0 0 0-3.22 0C-.081 135.524 0 135.209 0 135.8c0 1.657 2.149 3 4.8 3s4.8-1.347 4.8-3zm-4.8-6l2.7 5.4H2.1zm19.2 6c0-.607.05-.327-3.189-6.807a1.8 1.8 0 0 0-3.22 0c-3.268 6.535-3.19 6.219-3.19 6.807 0 1.657 2.149 3 4.8 3s4.799-1.347 4.799-3zm-7.5-.6l2.7-5.4 2.7 5.4z" data-name="Path 444" transform="translate(.004 -123.196)" style="fill:#65b7ff"/>
+        </g>
+    </g>
+</svg>

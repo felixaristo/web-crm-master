@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+    <g id="prefix__Arrowright" transform="rotate(180 635.88 308.38)">
+        <path id="prefix__Rectangle_216" fill="none" d="M0 0H32V32H0z" data-name="Rectangle 216" transform="translate(1239.76 584.76)"/>
+        <g id="prefix__Arrow_left" data-name="Arrow left" transform="translate(1239.962 589.434)">
+            <path id="prefix__Path_450" fill="#adbff7" d="M94.961 220h21a1.7 1.7 0 0 1 1.7 1.7v1.7a1.7 1.7 0 0 1-1.7 1.7h-21l-2.531-2.555z" data-name="Path 450" transform="translate(-85.871 -211.2)"/>
+            <path id="prefix__Path_451" fill="#65b7ff" d="M10.139 118.237l-9.623-9.618a1.791 1.791 0 0 1 0-2.473l9.618-9.617a1.7 1.7 0 0 1 2.409 0l1.207 1.207a1.7 1.7 0 0 1 0 2.409l-7.17 7.232 7.174 7.24a1.7 1.7 0 0 1 0 2.409l-1.207 1.207a1.7 1.7 0 0 1-2.409 0z" data-name="Path 451" transform="translate(-.021 -96.021)"/>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="prefix__View" width="64" height="64" viewBox="0 0 64 64">
+    <path id="prefix__Rectangle_175" fill="none" d="M0 0H64V64H0z" data-name="Rectangle 175"/>
+    <g id="prefix__Eyeopen" transform="translate(0 10.667)">
+        <path id="prefix__Path_72" fill="#adbff7" d="M63.614 83.711A35.638 35.638 0 0 0 32 64 35.643 35.643 0 0 0 .387 83.712a3.594 3.594 0 0 0 0 3.243A35.638 35.638 0 0 0 32 106.667a35.643 35.643 0 0 0 31.614-19.713 3.594 3.594 0 0 0 0-3.243zm-31.6 17.622H32a15.994 15.994 0 1 1 .012 0z" data-name="Path 72" transform="translate(-.001 -64)"/>
+        <path id="prefix__Path_73" fill="#65b7ff" d="M220.308 178.015a14.189 14.189 0 1 1-27.388-7.434 7.089 7.089 0 0 0 9.911-9.911 14.118 14.118 0 0 1 17.481 17.345z" data-name="Path 73" transform="translate(-174.596 -152.986)"/>
+    </g>
+</svg>

@@ -1,0 +1,198 @@
+.report-header{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.report-header h4{
+    color: #6a7267;
+    /* font-size: 24px; */
+    font-weight: 600;
+    line-height: 1.38;
+}
+.report-modal{
+    z-index: 1000;
+    top:30px;
+    right:-10px;
+    width: 200px;
+    min-height: 100px;
+    padding-left: 8px;
+    padding-right: 8px;
+    /* border:1px solid black; */
+    background-color: white;
+    position: absolute;
+    border-radius: 10px;
+  box-shadow: 0 3px 6px 0 rgba(119, 119, 119, 0.35);
+}
+.report-modal p{
+    font-weight: bold;
+    color: #252525;
+    font-size: 15px;
+    cursor: pointer;
+}
+.detail-header-report{
+    width: 80%;
+    /* height: 200px; */
+    background-color: white;
+    position: fixed;
+    top:0px;
+    /* bottom: 0; */
+    left: 230px;
+    padding:70px 0px 0px 20px;
+    box-shadow: 0 0px 6px 0 rgba(0, 0, 0, 0.16);
+    z-index: 2;
+    /* border:1px solid black */
+    /* display: flex; */
+    /* align-items: center; */
+}
+.detail-content-report{
+    margin-top:100px;
+    /* display: flex; */
+    /* grid-template-columns: repeat(2,1fr); */
+    /* padding:20px; */
+    /* border:1px solid black */
+}
+.card-wrapper-report{
+    width: 100%;
+    /* height: 100px; */
+    /* border:1px solid black; */
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-gap: 20px;
+
+}
+.card-report{
+    /* height: 120px; */
+    border-radius: 10px;
+    box-shadow: 0 3px 6px 0 rgba(119, 119, 119, 0.35);
+    background-color: white;
+    padding: 15px;
+}
+.card-report h4{
+    display: flex;
+    font-size: 20px;
+    font-weight: 600;
+    margin:15px;
+    margin-left: 0px;
+}
+.color-green{
+    color: #70bf4e;
+}
+.color-red{
+    color: #ff6e79;
+}
+.color-yellow{
+    color: #ffb100;
+}
+.grey-bold{
+    /* font-weight: bold; */
+    color: #cccccc;
+    font-size: 18px;
+  font-weight: 600;
+    margin-top:0;
+    font-size: 14px;
+  font-weight: 600;
+  margin:0px;
+}
+
+.div-flex{
+    display: flex;
+}
+.div-space-between{
+    justify-content: space-between;
+}
+.div-align-center{
+    align-items: center;
+    /* border:1px solid black; */
+}
+
+.invoice-table{
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0 3px 6px 0 rgba(119, 119, 119, 0.35);
+    padding: 15px 10px 15px 10px;
+    /* border:1px solid black; */
+}
+.invoice-table-width{
+    width: 25%;
+    /* border:1px solid black; */
+    padding-left: 5px;
+}
+.invoice-table-width p{
+    margin-top: 10px;
+    /* margin-bottom: 10px; */
+}
+
+.with-border{
+    border-bottom: 1px solid #777777;
+
+}
+.with-border-top{
+    border-top: 1px solid #777777;
+
+}
+.triangle{
+    content: '';
+    clip-path: polygon(50% 23%, 15% 74%, 92% 73%);
+
+    background-color: #70bf4e;
+}
+.total-text{
+    color: #252525;
+    font-size: 16px;
+  font-weight: 600;
+    margin-top:0;
+  font-weight: 600;
+}
+.graph-grid{
+    width: 100%;
+    /* height: 100px; */
+    /* border:1px solid black; */
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    grid-gap: 20px;
+}
+
+.graph-card{
+    padding:20px;
+    min-height: 100px;
+    border-radius: 10px;
+  box-shadow: 0 3px 6px 0 rgba(119, 119, 119, 0.35);
+  background-color: white;
+}
+.graph-tooltip{
+    min-width: 150px;
+    min-height: 70px;
+    border-radius: 5px;
+    /* border:1px solid black; */
+}
+.graph-tooltip-head{
+    height: 20px;
+    background-color: #eeeeee;
+    text-align: center;
+}
+.graph-tooltip-body{
+    padding:10px
+}
+.graph-tooltip-body p{
+    border:1px solid black;
+    margin:0;
+    display: flex!important;
+}
+.bulat1{
+    width:10px;
+    height:10px;
+    border-radius: 50%;
+    background-color: #70bf4e;
+    content: '';
+}
+.bulat2{
+
+    width:10px;
+    height:10px;
+    border-radius: 50%;
+    background-color: #3B99EB;
+}
+.apexcharts-toolbar{
+    z-index: 1!important;
+}
